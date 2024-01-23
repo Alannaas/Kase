@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706023597 source:c:\c++ projektai\kase\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
